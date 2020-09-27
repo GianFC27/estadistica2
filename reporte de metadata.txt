@@ -1,0 +1,6 @@
+Reporte de metadata:Indice de percepción de la corrupción en el año 2019(CPI):
+Variables:
+1)País: variable de tipo nominal
+2)Score(puntaje del CPI): variable numérica(escala de 0 a 100)/ 0=corrupcion elevada y 100=sin corrupcion
+Justificación:
+-El indice de percepción de la corrupción es una variable importante para explicar la calidad de la democracia porque gracias a las percepciones de distintos grupos de expertos y empresarios a nivel mundial,podemos evaluar la integridad política de los estados en aspectos como transparencia en la financiación de partidos políticos, proceso de toma de decisiones políticas, entre otros.
